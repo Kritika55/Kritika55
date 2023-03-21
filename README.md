@@ -1,11 +1,9 @@
-
 <h1 align="center"> Bonjour👋, I'm Kritika Paudel</h1>
 <h3 align="center">I am an IT student, aiming to be a full stack developer.</h3>
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/67/a2/4a/67a24a0591b34ade87032292ff0fb113.gif"
+(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/67/a2/4a/67a24a0591b34ade87032292ff0fb113.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritika55&label=Profile%20views&color=0e75b6&style=flat" alt="kritika55" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kritika55" alt="kritika55" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Web development, Java, Python,etc.**
 
