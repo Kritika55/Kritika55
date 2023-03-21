@@ -1,5 +1,4 @@
 
-[![MasterHead](https://i.pinimg.com/originals/24/54/5f/24545f9a8169fbe62141bc338d91ad4f.gif)](https://Kritika55.io)
 <h1 align="center"> Bonjour👋, I'm Kritika Paudel</h1>
 <h3 align="center">I am an IT student, aiming to be a full stack developer.</h3>
 img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/67/a2/4a/67a24a0591b34ade87032292ff0fb113.gif"
